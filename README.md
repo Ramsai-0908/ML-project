@@ -70,8 +70,7 @@ The dataset contains **weekly sales data** for multiple stores and includes the 
 
 * `your_notebook_name.ipynb`: Main Jupyter Notebook
 * `archive (2).zip`: Contains the dataset (replace with your actual filename)
-data set link-------->https://drive.google.com/file/d/1FWU2gVz-06mwXxxKIaGCQKnfZAXDEldP/view?usp=sharing
----
+data set link-------https://drive.google.com/file/d/1P1e8RKZkCTGZ3A5FhkVdLR1XK1qLZyrE/view?usp=sharing
 
 ## 📦 Dependencies
 
